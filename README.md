@@ -53,9 +53,9 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhanjanreddy08&" alt="prabhanjanreddy08" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sasivenkatgowddasari&" alt="sasivenkatgowddasari" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhanjanreddy08&show_icons=true&locale=en&layout=compact" alt="prabhanjanreddy08" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasivenkatgowddasari&show_icons=true&locale=en&layout=compact" alt="sasivenkatgowddasari" />
 </p>
